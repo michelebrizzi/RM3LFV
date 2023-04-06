@@ -1,7 +1,7 @@
 # RM3LFV Light Field Video Dataset
 Public release v0 10/04/2019
-- Authors: Michele Brizzi, Federica Battisti, Alessandro Neri\
-- Contact: michele.brizzi@uniroma3.it\
+- Authors: Michele Brizzi, Federica Battisti, Alessandro Neri
+- Contact: michele.brizzi@uniroma3.it
 - Website: http://www.comlab.uniroma3.it/rm3lfv.html
 
 
@@ -32,20 +32,20 @@ The database contains 7 light field video sequences. They were created using Ble
 For each sequence, we provide a configuration file with camera settings and disparity ranges. Video frames for each viewpoint are given as individual PNGs.
 
 ### Folder structure:
-- sequence_name\
-	- sequence\
-		- frame 1 folder (000001)\
-			- viewpoint 1 (input_Cam000)\
-			- viewpoint 2 (input_Cam001)\
-			- viewpoint 3 (input_Cam002)\
-			- ...\
-		- frame 2 folder (000002)\
-		- frame 3 folder (000003)\
-		- ...\
-	- config file\
+- sequence_name
+	- sequence
+		- frame 1 folder (000001)
+			- viewpoint 1 (input_Cam000)
+			- viewpoint 2 (input_Cam001)
+			- viewpoint 3 (input_Cam002)
+			- ...
+		- frame 2 folder (000002)
+		- frame 3 folder (000003)
+		- ...
+	- config file
 
 ## References
-[1] Blender, Blender Foundation, [Online], https://www,blender.org\
+[1] Blender, Blender Foundation, [Online], https://www,blender.org\ \
 [2] K. Honauer, O. Johannsen, D. Kondermann and B. Goldluecke, "A dataset and evaluation methodology for depth estimation on 4D light fields", in Asian Conference on Computer Vision (ACCV), 2016
 
 ## Copyright
