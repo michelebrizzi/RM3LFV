@@ -1,6 +1,4 @@
---------------------------------------------------------------
 # RM3LFV Light Field Video Dataset
---------------------------------------------------------------
 -Public release v0 10/04/2019
 
 -Authors: Michele Brizzi, Federica Battisti, Alessandro Neri
@@ -8,9 +6,7 @@
 -Website: http://www.comlab.uniroma3.it/rm3lfv.html
 
 
---------------------------------------------------------------
 # Publication
---------------------------------------------------------------
 If you use this database in your research, we kindly ask that you reference our paper listed below:
 
 @INPROCEEDINGS{Brizzi_ICME_2019, 
@@ -30,9 +26,7 @@ month={July},}
 For further information, comments or suggestions, please contact Michele Brizzi at michele.brizzi@uniroma3.it.
 
 
---------------------------------------------------------------
 # Database description
---------------------------------------------------------------
 The database contains 7 light field video sequences. They were created using Blender [1] and the light field add-on from [2].
 For each sequence, we provide a configuration file with camera settings and disparity ranges. Video frames for each viewpoint are given as individual PNGs.
 
@@ -50,15 +44,11 @@ sequence_name
 		-...
 	-config file
 
---------------------------------------------------------------
 # References
---------------------------------------------------------------
 [1] Blender, Blender Foundation, [Online], https://www,blender.org
 [2] K. Honauer, O. Johannsen, D. Kondermann and B. Goldluecke, "A dataset and evaluation methodology for depth estimation on 4D light fields", in Asian Conference on Computer Vision (ACCV), 2016
 
---------------------------------------------------------------
 # Copyright
---------------------------------------------------------------
 The following 3D models from Sketchfab (https://www.sketchfab.com) were used to create the database:
 
 Great Mountain (https://skfb.ly/6HtoK) by Gesy, licensed under CC-BY 4.0
